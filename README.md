@@ -4,7 +4,12 @@
 
 ############每章的幕布链接######################
 
-## 六、第六章 图
+## 六、图
+
+[这是一个连接]: https://mubu.com/doc/1AXmfc3DPOu
+
+
 
 [图]: https://mubu.com/doc/1AXmfc3DPOu	"图"
 
+https://mubu.com/doc/1AXmfc3DPOu
