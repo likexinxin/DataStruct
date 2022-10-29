@@ -1,0 +1,3 @@
+D:\ideamoudle\apps\CLion\ch-0\203.5981.166\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\graph_AOV_AOE1019.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\graph_AOV_AOE1019.dir/objects.a @CMakeFiles\graph_AOV_AOE1019.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\graph_AOV_AOE1019.dir/objects.a -Wl,--no-whole-archive  -o graph_AOV_AOE1019.exe -Wl,--out-implib,libgraph_AOV_AOE1019.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\graph_AOV_AOE1019.dir\linklibs.rsp

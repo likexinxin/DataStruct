@@ -1,0 +1,4 @@
+D:\ideamoudle\apps\CLion\ch-0\203.5981.166\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\shujujiegou\arithmetic\learn_0909
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/shujujiegou/arithmetic/learn_0909/cmake-build-debug

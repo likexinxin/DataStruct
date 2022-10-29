@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/shujujiegou/dataStructure/graph_dijkstra_floyd1018/main.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+

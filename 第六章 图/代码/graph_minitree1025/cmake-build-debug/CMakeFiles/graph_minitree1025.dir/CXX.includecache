@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/shujujiegou/dataStructure/graph_minitree1025/main.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+
