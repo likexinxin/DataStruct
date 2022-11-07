@@ -1,0 +1,3 @@
+D:\ideamoudle\apps\CLion\ch-0\203.5981.166\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\sort_swap1102.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\sort_swap1102.dir/objects.a @CMakeFiles\sort_swap1102.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\sort_swap1102.dir/objects.a -Wl,--no-whole-archive  -o sort_swap1102.exe -Wl,--out-implib,libsort_swap1102.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sort_swap1102.dir\linklibs.rsp

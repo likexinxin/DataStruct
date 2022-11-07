@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/shujujiegou/dataStructure/sort_swap1102/heapsort.h
+
+D:/shujujiegou/dataStructure/sort_swap1102/main.cpp
+iostream
+-
+stdlib.h
+-
+stdio.h
+-
+sort.h
+D:/shujujiegou/dataStructure/sort_swap1102/sort.h
+heapsort.h
+D:/shujujiegou/dataStructure/sort_swap1102/heapsort.h
+merge.h
+D:/shujujiegou/dataStructure/sort_swap1102/merge.h
+
+D:/shujujiegou/dataStructure/sort_swap1102/merge.cpp
+merge.h
+D:/shujujiegou/dataStructure/sort_swap1102/merge.h
+iostream
+D:/shujujiegou/dataStructure/sort_swap1102/iostream
+stdlib.h
+D:/shujujiegou/dataStructure/sort_swap1102/stdlib.h
+
+D:/shujujiegou/dataStructure/sort_swap1102/merge.h
+
+D:/shujujiegou/dataStructure/sort_swap1102/sort.h
+
